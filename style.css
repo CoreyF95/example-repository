@@ -1,3 +1,27 @@
+html {
+    background: black;
+}
+
 body {
-    background: Blue;
+    background: White;
+}
+
+#first {
+    background: Red;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h1 {
+    text-align: center;
+    background: white;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 20px;
 }
