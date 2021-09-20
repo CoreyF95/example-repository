@@ -1,6 +1,4 @@
 const h2 = document.createElement("h2");
-h2.textContent = "This content added by JavaScript";
+h2.textContent = "Work in Progress!";
 
 document.querySelector("body").appendChild(h2);
-
-const first = document.getElementById("first");
